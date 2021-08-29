@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+13:02:18	39096/39096	---MC-	200	added ('OK')	text/html	date:Sun,%2029%20Aug%202021%2017:04:18%20GMT	https://filesmart.net/0c41df1	C:/My%20Web%20Sites/tchtch/filesmart.net/0c41df1.html	(from )
+13:02:18	208/208	---M--	404	error ('Not%20Found')	text/html	date:Sun,%2029%20Aug%202021%2017:04:19%20GMT	https://filesmart.net/robots.txt		(from )
